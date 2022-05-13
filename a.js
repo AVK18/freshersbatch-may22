@@ -1,2 +1,2 @@
-let a="flase"
-console.log(Number(a))
+let b="flase"
+console.log(Number(b))

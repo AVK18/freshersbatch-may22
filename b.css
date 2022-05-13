@@ -1,7 +1,7 @@
 table,tr,td,th{
     border-style: solid;
     border-width: 3px;
-    border-color: rgb(210, 23, 23);
+    border-color: rgb(195, 23, 210);
     border-collapse: collapse;
 }
 
