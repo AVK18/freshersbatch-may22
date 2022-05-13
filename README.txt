@@ -1,4 +1,4 @@
-1 create Assignment floder of html,css
+1 create Assignment floder of html,css,java
   =using commands "mkdir","cd","git init"
 2 create README txt file steps
   =using commands "touch" 
