@@ -1,0 +1,12 @@
+table,tr,td,th{
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(195, 23, 210);
+    border-collapse: collapse;
+}
+
+
+td{
+    border-top: 50px;
+}
+
